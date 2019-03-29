@@ -1,2 +1,1 @@
-# Analogia
 # handy-stuff
